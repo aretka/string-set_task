@@ -7,4 +7,4 @@
   4.  Galiausiai spausdindami elementus į *"output.txt"* failą. Programa spausdina tik tuos žodžius, kurie pasikartoja daugiau nei 1 kartą. Tada spausdinimo metu programa suranda kuriose eilutėse tam tikras žodis pasikartoja ir išspausdina tų eilučių indeksus.
   
   *"output.txt"* failas atrodo taip:</br>
-  ![output](output.txt)
+  ![output](output.png)
